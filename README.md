@@ -1,5 +1,3 @@
-# README
-
 Hello! Welcome to my GitHub profile. Here you'll find information about my current projects, interests, and how to get in touch with me.
 
 - 🔭 I’m currently working as a Full Stack Developer, focusing on creating robust and scalable web applications using modern technologies.
